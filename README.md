@@ -1,2 +1,2 @@
-Môn xây dựng phần mềm hướng đối tượng 
+Xây Dựng Phần Mềm Đối Tượng
 
